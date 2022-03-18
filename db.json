@@ -15,5 +15,12 @@
     "regionCode":"SP",
     "countryName":"Brazil",
     "countryCode":"BR"
+  },
+  "geocoding-locality": {
+    "localityName":"Sao Paulo",
+    "regionName":"Sao Paulo",
+    "countryIsoCode":"BR",
+    "latitude":-23.56287,
+    "longitude":-46.65469
   }
 }
