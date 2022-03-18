@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "geocode": {
+    {"latitude":-23.6283,"longitude":-46.6409,"localityName":"S\u00e3o Paulo","regionName":"Sao Paulo","regionCode":"SP","countryName":"Brazil","countryCode":"BR"}
+  }
+}
